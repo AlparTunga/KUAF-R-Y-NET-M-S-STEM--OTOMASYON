@@ -1,0 +1,16 @@
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\bin\Debug\KYS.exe.config
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\bin\Debug\KYS.exe
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\bin\Debug\KYS.pdb
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.csproj.AssemblyReference.cache
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.csproj.SuggestedBindingRedirects.cache
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.Books.resources
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.Female.resources
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.Form1.resources
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.Male.resources
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.Properties.Resources.resources
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.csproj.GenerateResource.cache
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.csproj.CoreCompileInputs.cache
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.exe
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.pdb
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.EmployeersInterface.resources
+C:\Users\batua\OneDrive\Masaüstü\KYS\KYS\KYS\obj\Debug\KYS.KYS2.resources
